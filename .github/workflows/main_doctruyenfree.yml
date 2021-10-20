@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'doctruyenfree'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4C1E64A0392446BA86607E58DC789247 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C58BA21EA8084C9CADA1D0EFA4728D61 }}
           package: .
